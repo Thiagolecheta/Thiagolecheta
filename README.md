@@ -1,6 +1,6 @@
  ## Olá, me chamo Thiago Lecheta
  - 💻 Amante da tecnologia e principalmente por desenvolvimento Front-End;
- - 📚 Atualmente estudando JS. Tambem me especializando/reforçando meus conhecimentos em HTML e CSS. E Futuramente pretendo estudar ReactJS;
+ - 📚 Atualmente estudando JS e ReactJS. Tambem me especializando/reforçando meus conhecimentos em HTML e CSS. 
  - 📫 Entre em contato por email: thiago.lecheta1@gmail.com;
 
 <div>
