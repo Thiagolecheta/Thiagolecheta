@@ -3,8 +3,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=59B9FA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Thiago+Lecheta;Tenho+24+anos;Sou+formado+em+Analise+e+Desenvolvimento+de+Sistemas;Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
  
  
- - 💻 Amante da tecnologia e principalmente por desenvolvimento Front-End;
- - 📚 Atualmente estudando JS e ReactJS. Tambem me especializando/reforçando meus conhecimentos em HTML e CSS. 
+ - 💻 Amante da tecnologia e principalmente por desenvolvimento Front-End; 
  - 📫 Entre em contato por email: thiago.lecheta1@gmail.com;
 
 
